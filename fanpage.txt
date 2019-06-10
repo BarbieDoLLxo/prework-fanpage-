@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 
+Frameset//EN"
+"http://www.w3.org/TR/html4/frameset.dtd">
+<HTML>
+<HEAD><TITLE> THE ROLLING STONES </TITLE></HEAD>
+<BODY>
+<H1> <B>THE ROLLING STONES</B> </H1>
+<P ALIGN= "CENTER"> The Rolling Stones are one of the most famous bands of the 20th century. The band was originally formed in London England in 1962. "The Stones" (an AKA for the band) were inducted into the rock and roll hall of fame in 1989, and the UK music hall of fame in 2004. They have continued their climb to fame throughout the last 60 years in pop culture. The Stones have over 250 million dollars in record sales over the past 6 decades and are currently on another world tour. 
+<H2></H2>
+<P>Current members of the band are:
+<UL>
+<LI>Mick Jagger (lead vocals)
+<LI>Keith Richards (guitar)
+<LI>Bill Wyman (bass)
+<LI>Charlie Watts (drums)
+<LI>Ian Stewart (piano)
+</UL>
+<IMG SRC= "Rolling Stones.JPEG" ALT="(TONGUE)">
+<H3></H3>
+<P> Rolling Stones have been known throughout pop culture as one of the founding bands represented on memrobilia around the world, with this famous TONGUE Logo. 
+<A HREF= "http://www.rollingstones.com/">TheRollingStones</A>
+<STYLE>
+UL { COLOR: PURPLE;}
+</STYLE>  
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
